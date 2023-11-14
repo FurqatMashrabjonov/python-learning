@@ -1,4 +1,3 @@
-letters = ['a', 'b', 'c', 's']
+name = input('Name: ')
 
-for word in letters:
-    print(word, end='-')
+print('salom, {}'.format(name))
