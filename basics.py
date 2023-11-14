@@ -1,3 +1,2 @@
-name = input('Name: ')
-
-print('salom, {}'.format(name))
+name = 'furqat'
+print(f'salom, {name}')
