@@ -1,1 +1,1 @@
-print('Bismillah')
+print(22 // 8)
