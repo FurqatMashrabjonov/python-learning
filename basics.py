@@ -1,6 +1,4 @@
-num = -12.5
-string = '12'
+num = 12
 
-print(str(num))
-print(int(string))
-print(float(string))
+match num:
+    case 11: print('no') break
